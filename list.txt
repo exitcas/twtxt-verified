@@ -1,2 +1,4 @@
 @lucas@tilde.team
 @prologic@twtxt.net
+https://buckket.org/twtxt.txt
+https://buckket.org/twtxt_news.txt
